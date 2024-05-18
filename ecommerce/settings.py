@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-lfx_7$#4sir)%)hpkscahaamk6%71#^pauu4u#k0u!4-_-50(f
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['.herokuapp.com','8000-jordanabraga-ecommerce-hlu1m3hieku.ws-eu111.gitpod.io']
+ALLOWED_HOSTS = ['https://comics-garden-d716ef512836.herokuapp.com/','8000-jordanabraga-ecommerce-hlu1m3hieku.ws-eu111.gitpod.io']
 
 
 # Application definition
