@@ -24,9 +24,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-lfx_7$#4sir)%)hpkscahaamk6%71#^pauu4u#k0u!4-_-50(f'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['8000-jordanabraga-ecommerce-hlu1m3hieku.ws-eu111.gitpod.io']
+ALLOWED_HOSTS = ['.herokuapp.com','8000-jordanabraga-ecommerce-hlu1m3hieku.ws-eu111.gitpod.io']
 
 
 # Application definition
